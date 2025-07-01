@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **silveriolance06@gmail.com**
 
-- 📄 Know about my experiences [Incoming 2nd year CS Major](Incoming 2nd year CS Major)
+- 📄 Know about my experiences [Incoming 2nd year CS Major]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
