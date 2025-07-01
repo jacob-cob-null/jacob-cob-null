@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Jacob</h1>
+<h1 align="center">Kamusta!👋, I'm Jacob</h1>
 <h3 align="center">A passionate frontend developer from the Philippines</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"></a> </p>
